@@ -1,0 +1,1 @@
+[07-Dec-2023 09:33:42 UTC] Cron reschedule event error for hook: wp_scheduled_delete, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"daily","args":[],"interval":86400}
